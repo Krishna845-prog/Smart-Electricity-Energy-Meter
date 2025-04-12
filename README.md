@@ -42,10 +42,10 @@ This project focuses on building a *Smart Electricity Energy Meter* using:
 ## 📸 Project Images
 
 ### 🔹 System Circuit Layout
-(Insert image or schematic link here)
+![Prototype](https://github.com/Krishna845-prog/Smart-Electricity-Energy-Meter/blob/main/circuit%20diagram.jpg)
 
 ### 🔹 Final Assembled Prototype
-![Prototype](https://raw.githubusercontent.com/yourusername/Smart-Electricity-Energy-Meter/main/Screenshot%202025-04-13%20003512.png)
+![Prototype]
 
 ---
 
