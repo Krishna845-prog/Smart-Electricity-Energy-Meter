@@ -2,7 +2,6 @@ cat << 'EOF' > README.md
 # ✨ Smart Electricity Energy Meter 🔌⚡
 An IoT-based system that enables real-time electricity monitoring and usage tracking to promote energy efficiency and automation.
 
-![Smart Meter Prototype](https://raw.githubusercontent.com/yourusername/Smart-Electricity-Energy-Meter/main/Screenshot%202025-04-13%20003512.png)  
 <sub><i>Figure: Working prototype of the Smart Electricity Energy Meter</i></sub>
 
 ---
@@ -29,6 +28,21 @@ This project focuses on building a *Smart Electricity Energy Meter* using:
 
 ---
 
+## :wrench: Components Used
+| Sr. No. | Components                          | Quantity |
+|---------|-------------------------------------|----------|
+| 1       | ESP32 WiFi Module                   | 1        |
+| 2       | SCT-013-030 Non-invasive AC Current Sensor | 1 |
+| 3       | ZMPT101B AC Voltage Sensor Module   | 1        |
+| 4       | 16x2 LCD Display                    | 1        |
+| 5       | Potentiometer 10k                   | 1        |
+| 6       | Resistor 10K                        | 2        |
+| 7       | Resistor 100 ohm                    | 1        |
+| 8       | Capacitor 10 microF                 | 1        |
+| 9       | Connecting Wires                    | 10       |
+| 10      | Breadboard                          | 1        |
+
+
 ## 🔧 Technologies Used
 - Arduino IDE & C++  
 - ESP8266 Wi-Fi Module  
@@ -45,7 +59,7 @@ This project focuses on building a *Smart Electricity Energy Meter* using:
 ![Prototype](https://github.com/Krishna845-prog/Smart-Electricity-Energy-Meter/blob/main/circuit%20diagram.jpg)
 
 ### 🔹 Final Assembled Prototype
-![Prototype]
+![Prototype](https://github.com/Krishna845-prog/Smart-Electricity-Energy-Meter/blob/main/final%20protptype.jpg)
 
 ---
 
@@ -76,4 +90,4 @@ This project focuses on building a *Smart Electricity Energy Meter* using:
 ## 🤝 Contributors
 - *Krishna845-prog* (Lead Developer)  
 - Open to contributions – feel free to fork and improve!
-EOF
+  
